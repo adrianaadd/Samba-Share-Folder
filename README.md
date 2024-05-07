@@ -11,3 +11,5 @@ Al final del fichero
 path = /home/adrian/RebootScripts
 valid users = reboot
 read only = no
+
+sudo service smbd restart
